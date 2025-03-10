@@ -1,4 +1,4 @@
-# Zain Profile - Cyberpunk Portfolio
+# Zain Profile
 
 A modern, responsive portfolio website with a cyberpunk aesthetic, built using Next.js, React, and Tailwind CSS. This portfolio showcases professional experience, skills, projects, and more with optimized performance and engaging animations.
 
