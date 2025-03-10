@@ -2,7 +2,6 @@
 
 A modern, responsive portfolio website with a cyberpunk aesthetic, built using Next.js, React, and Tailwind CSS. This portfolio showcases professional experience, skills, projects, and more with optimized performance and engaging animations.
 
-![Portfolio Preview](/preview.png)
 
 ## ✨ Features
 
@@ -14,6 +13,7 @@ A modern, responsive portfolio website with a cyberpunk aesthetic, built using N
 - **Interactive UI Elements** - 3D cards, parallax effects, animated text, and more
 - **Accessibility** - ARIA attributes, keyboard navigation, and screen reader support
 - **SEO Friendly** - Proper meta tags and semantic HTML
+
 
 ## 🛠️ Technologies
 
